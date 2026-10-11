@@ -2,4 +2,5 @@ Hi there
 This is my first Git project
 now i will change it
 to see what will happen
-i am adding third time and changing seccond row
+i am adding third time and changing second row
+i will publish new branch now
