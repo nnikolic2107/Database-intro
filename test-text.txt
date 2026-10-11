@@ -1,2 +1,4 @@
 Hi there
 This is my firtst Git project
+now i will change it
+to see what will happen
