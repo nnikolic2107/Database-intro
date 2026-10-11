@@ -1,4 +1,5 @@
 Hi there
-This is my firtst Git project
+This is my first Git project
 now i will change it
 to see what will happen
+i am adding third time and changing seccond row
